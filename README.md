@@ -1,3 +1,26 @@
+# First web app using React ⚛️
+For a while now, I was super interested in learning the React framework after hearing about it at Hack The North. More and more projects I work on, whether it be apps built using React Native, or websites call for this framework and it's praised reusable components. 
+
+I had a lot of fun learning this!
+
+### Inspiration
+This app was created with instructions from an Intro to React workshop by [Leslie Xin](https://github.com/lesliexin) at [Hack The North 2020++](https://hackthenorth.com/)
+
+### Components
+There are two components: app and dish. The component tree is a really good way to visualize the flow of data within the organization of parent and children components. Each dish will have a unique name and count. 
+
+- Props are the parameters/arguments that a function recieves. In this came, the parent: App transfers the "name" parameter to children: Dish. Cannot be changed. 
+- State is also data that belongs to the component, but is **local to each instance of a component** meaning that each dish will have its own unique count. Can be changed.
+<br><br>
+<img src="dish.PNG"></img>
+<br><br>
+
+### create-react-app
+Makes a new single page app in React
+1. Make sure to have Node or npm installed. Type `npm -v` to check it's existence and version. 
+2. Type the command `npx create-react-app [title]` where you can give the app a title, omitting brackets. Or if you already have a repo set up, `create-react-app .` Wait until it says "happy hacking"!
+
+--------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
