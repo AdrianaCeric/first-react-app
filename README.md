@@ -17,6 +17,9 @@ There are two components: app and dish. The component tree is a really good way 
 <img src="dish.PNG"></img>
 <br><br>
 
+### What are React Hooks?? ⚓
+In React, hooks are simply methods that allow you to create React Components without writing a class. This alleviates the need for constructors, and the annoying `this.` that you have to append to any property of the class. 
+
 ### create-react-app
 Makes a new single page app in React
 1. Make sure to have Node or npm installed. Type `npm -v` to check it's existence and version. 
