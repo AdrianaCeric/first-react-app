@@ -1,5 +1,5 @@
 # First web app using React ⚛️
-For a while now, I got super interested in learning the React framework after hearing about it at Hack The North 2020++. It's showing up in an increasing amount of projects I'm exposed to, and rhe reusable components seems enticing. 
+For a while now, I got super interested in learning the React framework after hearing about it at Hack The North 2020++. It's showing up in an increasing amount of projects I'm exposed to, and the reusable components seems enticing. I chose React cause I wanted to give another one of Zuck's products a try. (no not really, it was just very popular, although I'm planning on potentially experimenting with Next or Angular sometime too)
 
 I had a lot of fun learning this!
 
