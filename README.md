@@ -1,17 +1,17 @@
 # First web app using React ⚛️
-For a while now, I was super interested in learning the React framework after hearing about it at Hack The North. More and more projects I work on, whether it be apps built using React Native, or websites call for this framework and it's praised reusable components. 
+For a while now, I got super interested in learning the React framework after hearing about it at Hack The North 2020++. It's showing up in an increasing amount of projects I'm exposed to, and rhe reusable components seems enticing. 
 
 I had a lot of fun learning this!
 
 -----
 
 ### Inspiration
-This app was created with instructions from an Intro to React workshop by [Leslie Xin](https://github.com/lesliexin) at [Hack The North 2020++](https://hackthenorth.com/)
+This app was created along with the Intro to React workshop by [Leslie Xin](https://github.com/lesliexin) at [Hack The North 2020++](https://hackthenorth.com/)
 
 ### Components
-There are two components: app and dish. The component tree is a really good way to visualize the flow of data within the organization of parent and children components. Each dish will have a unique name and count. 
+In this project, there are two components: app and dish. The following component tree is a really good way to visualize the flow of data within throughout the parent and children components. Each dish will have a unique name and count. 
 
-- Props are the parameters/arguments that a function recieves. In this came, the parent: App transfers the "name" parameter to children: Dish. Cannot be changed. 
+- Props are the parameters/arguments that a function recieves. In this case, the parent, "App", transfers the "name" parameter to the children, "Dish." Cannot be changed. 
 - State is also data that belongs to the component, but is **local to each instance of a component** meaning that each dish will have its own unique count. Can be changed.
 <br><br>
 <img src="dish.PNG"></img>
